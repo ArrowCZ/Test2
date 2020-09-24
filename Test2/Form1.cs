@@ -22,7 +22,8 @@ namespace Test2
             //Zmena testu2
             //zmena andrea
             //Zmena na vetvi Test
-            // Zmena, ktera se slouci
+            //dalsi zmena
+
         }
     }
 }
