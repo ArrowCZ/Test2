@@ -20,6 +20,7 @@ namespace Test2
         private void button1_Click(object sender, EventArgs e)
         {
             //Zmena testu2
+            //zmena andrea
         }
     }
 }
