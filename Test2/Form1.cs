@@ -21,7 +21,7 @@ namespace Test2
         {
             //Zmena testu2
             //zmena andrea
-            //zmena na vetvi Dev
+            //Zmena na vetvi Test
         }
     }
 }
